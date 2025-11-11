@@ -1,8 +1,8 @@
-# \ Profit Prediction Project
+#  Profit Prediction Project
 
 # 
 
-# \ML \& GUI application to predict company profits based on financial metrics
+# ML \& GUI application to predict company profits based on financial metrics
 
 # 
 
