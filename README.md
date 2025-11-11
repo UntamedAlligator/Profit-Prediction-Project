@@ -6,13 +6,13 @@
 
 # 
 
-# \## 🎯 Motivation
+# \ 🎯 Motivation
 
 # Predicting company profit helps startups and SMEs allocate budget for R\&D, marketing \& administration more effectively.
 
 # 
 
-# \## 🛠 Tech Stack
+# \ 🛠 Tech Stack
 
 # \- Python
 
@@ -24,7 +24,7 @@
 
 # 
 
-# \## 🚀 How to Run
+# \ 🚀 How to Run
 
 # 1\. Clone the repo
 
@@ -42,7 +42,7 @@
 
 # 
 
-# \## 📊 Key Results
+# \ 📊 Key Results
 
 # \- Achieved \[e.g., R² = 0.89] on test dataset
 
@@ -50,7 +50,7 @@
 
 # 
 
-# \## 🔭 Future Work
+# \ 🔭 Future Work
 
 # \- Improve model using ensemble methods
 
@@ -60,7 +60,7 @@
 
 # 
 
-# \## ✏️ Author
+# \ ✏️ Author
 
 # Vedant Mishra — \[GitHub](https://github.com/UntamedAlligator)
 
